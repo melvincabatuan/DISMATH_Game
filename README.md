@@ -2,10 +2,10 @@
 
 ## Requirements
 
-Install pygame
+Install pygame module (https://pypi.org/project/pygame)
 
 ```
-pip install pygame module (https://pypi.org/project/pygame)
+pip install pygame 
 ```
 
 ## Run
