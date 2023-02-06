@@ -5,7 +5,7 @@
 Install pygame
 
 ```
-pip install pygame
+pip install pygame module (https://pypi.org/project/pygame)
 ```
 
 ## Run
